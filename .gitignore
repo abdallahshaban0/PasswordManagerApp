@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Encrypted vault and sensitive data
+/data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env 
